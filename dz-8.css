@@ -1,0 +1,94 @@
+.head{
+text-align: center;
+}
+.MoGo{
+margin-right: 632px;
+width: 98px;
+height: 33px;
+font-family: Montserrat;
+font-weight: bold;
+font-size: 30px;
+line-height: 37px;
+color: #95E1D3;
+margin-left: 160px;
+}
+.p5{
+    color: #F38181;
+    text-decoration: none;
+    width: 62px;
+height: 17px;
+margin-right: 55px;
+font-family: Montserrat;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+}
+.p55{
+    text-decoration: none;
+    color: #95E1D3;
+    width: 62px;
+height: 17px;
+margin-right: 55px;
+font-family: Montserrat;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+}
+.p32{
+    text-decoration: none;
+    color: #95E1D3;
+    width: 62px;
+height: 17px;
+margin-right: 32px;
+font-family: Montserrat;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+}
+.line{
+    width: 50px;
+    height: 3px;
+    background-color: #F38181;
+    margin-top: 10px;
+}
+.dis{
+    display: inline-block;
+}
+.dis-2{
+    display: inline-block;
+}
+.h3{
+text-align: center;
+font-family: Kaushan Script;
+font-weight: normal;
+font-size: 24px;
+line-height: 35px;
+color: #333;
+}
+.h2{
+text-align: center;
+color: #333;
+margin-top: 40px;
+font-family: Montserrat;
+
+font-weight: bold;
+font-size: 30px;
+line-height: 37px;
+}
+.lorem{
+color: #B6B6B6;
+text-align: center;
+margin-top: 45px;
+}
+.img{
+    display: inline-block;
+    margin-left: 30px;
+
+}
+
+.line-2{
+    width: 60px;
+height: 4px;
+background-color: #F38181;
+margin-left: 720px;
+}
